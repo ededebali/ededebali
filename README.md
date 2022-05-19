@@ -7,7 +7,7 @@
 
 <div> <h1 align="center"> SOCIAL PLATFORMS </h1> 
 <p align="center">
-<a href="https:/www.linkedin.com/in/eftal-dedebali-4587b3235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https:/www.linkedin.com/in/eftal-dedebali-4587b3235/](https://www.linkedin.com/in/eftal-dedebali-4587b3235/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:eftaldedebali.de@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 <a href="https://medium.com/@eftaldedebali"><img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" /></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=eftaldedebali" alt="eftaldedebali" height="28"/></a>
